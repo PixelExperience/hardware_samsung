@@ -16,6 +16,23 @@
       "message": "Was asked to add you to reviewers",
       "revId": "6e460bf717ddb9453b71d6540eed15322b72e735",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9eec5d00_07dfcf90",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-15T15:50:46Z",
+      "side": 1,
+      "message": "Please send separated commits instead of squashing it",
+      "revId": "6e460bf717ddb9453b71d6540eed15322b72e735",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
