@@ -15,9 +15,6 @@ LOCAL_USE_AAPT2 := true
 LOCAL_STATIC_ANDROID_LIBRARIES := \
     SettingsLib
 
-LOCAL_STATIC_JAVA_LIBRARIES := \
-    org.lineageos.platform.internal
-
 LOCAL_OPTIONAL_USES_LIBRARIES := \
     androidx.window.extensions \
     androidx.window.sidecar

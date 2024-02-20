@@ -29,8 +29,6 @@ import androidx.preference.SwitchPreference;
 import com.android.settingslib.widget.MainSwitchPreference;
 import com.android.settingslib.widget.OnMainSwitchChangeListener;
 
-import org.lineageos.internal.util.ScreenType;
-
 public class SamsungDozeSettings extends PreferenceFragment
         implements OnPreferenceChangeListener, OnMainSwitchChangeListener {
 

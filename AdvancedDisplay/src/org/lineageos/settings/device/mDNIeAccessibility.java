@@ -25,8 +25,6 @@ import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceManager;
 
-import org.lineageos.internal.util.FileUtils;
-
 public class mDNIeAccessibility extends ListPreference implements Preference.OnPreferenceChangeListener {
 
     private static String FILE = null;

@@ -13,8 +13,7 @@ android_app {
     platform_apis: true,
 
     static_libs: [
-        "org.lineageos.platform.internal",
-        "org.lineageos.settings.resources",
+        "org.pixelexperience.settings.resources",
     ],
 
     optimize: {

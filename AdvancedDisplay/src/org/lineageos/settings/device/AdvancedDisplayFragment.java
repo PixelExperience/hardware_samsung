@@ -23,8 +23,6 @@ import androidx.preference.PreferenceFragment;
 
 import org.lineageos.settings.device.R;
 
-import org.lineageos.internal.util.FileUtils;
-
 public class AdvancedDisplayFragment extends PreferenceFragment {
     private mDNIeScenario mmDNIeScenario;
     private mDNIeAccessibility mmDNIeAccessibility;
